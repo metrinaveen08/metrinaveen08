@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @metrinaveen08
+- Website: http://naveenmetri.me/
 - 👀 I’m interested in creating and learning about AI and its advancements
 - 🌱 I’m currently learning to code and learn programming
 - 💞️ I’m looking to collaborate on new technology that can help me learn and make my way to AI engineer
