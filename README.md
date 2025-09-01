@@ -26,9 +26,23 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
 </table>
 
 ---
+## 🌐 Connect with Me  
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/metri-naveen-kumar)  
+<p align="center">
+  <a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <br>
+  <b>Metri Naveen Kumar</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/metrinaveen08" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <br>
+  <b>@metrinaveen08</b>
+</p>
 
 ---
 ## 💻 Tech Stack  
