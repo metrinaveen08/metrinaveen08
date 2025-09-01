@@ -81,6 +81,10 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
     </tr>
   </table>
 </p>
+<p align="center">
+  <img src="https://i.gifer.com/76YS.gif" alt="animated banner" width="100%" />
+</p>
+
 
 ---
 
