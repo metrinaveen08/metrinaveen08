@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Naveen 
-<a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
-  <img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/>
+# 👋 Hi, I'm Naveen  
+<a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank" title="LinkedIn">
+  <img src="https://img.icons8.com/fluency/26/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/metrinaveen08" target="_blank">
-  <img src="https://img.icons8.com/fluency/28/github.png" alt="GitHub"/>
+<a href="https://github.com/metrinaveen08" target="_blank" title="GitHub">
+  <img src="https://img.icons8.com/fluency/26/github.png" alt="GitHub"/>
 </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.icons8.com/fluency/28/gmail.png" alt="Email"/>
+<a href="mailto:your.email@example.com" title="Gmail">
+  <img src="https://img.icons8.com/fluency/26/gmail.png" alt="Gmail"/>
 </a>
 
 I’m studying **Computer Science Specializing in AIML** and exploring the intersections of **technology & problem solving**. Welcome to my GitHub!  
