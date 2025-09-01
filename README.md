@@ -1,6 +1,5 @@
-<!-- Background Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" alt="animated background" width="100%"/>
+  <img src="https://i.gifer.com/76YS.gif" alt="animated banner" width="100%" />
 </p>
 
 ---
