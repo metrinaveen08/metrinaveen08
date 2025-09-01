@@ -37,39 +37,6 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
   </tr>
 </table>
 ---
-## 🖥️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br>C
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="60"/><br>NumPy
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="60"/><br>Anaconda
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60"/><br>Oracle
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.svg" width="60"/><br>Unreal Engine
-    </td>
-  </tr>
-</table>
-
----
 ## 💻 Tech Stack  
 
 <p align="center">
