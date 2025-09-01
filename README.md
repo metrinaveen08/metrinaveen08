@@ -5,9 +5,7 @@
 <a href="https://github.com/metrinaveen08" target="_blank" title="GitHub">
   <img src="https://img.icons8.com/fluency/26/github.png" alt="GitHub"/>
 </a>
-<a href="mailto:your.email@example.com" title="Gmail">
-  <img src="https://img.icons8.com/fluency/26/gmail.png" alt="Gmail"/>
-</a>
+
 
 I’m studying **Computer Science Specializing in AIML** and exploring the intersections of **technology & problem solving**. Welcome to my GitHub!  
 
