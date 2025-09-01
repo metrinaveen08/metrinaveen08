@@ -18,22 +18,42 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80"/>
+        <br>Python
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80"/>
+        <br>Java
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="80" height="80"/>
+        <br>C
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="80" height="80"/>
+        <br>NumPy
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="80" height="80"/>
+        <br>Anaconda
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="80" height="80"/>
+        <br>Oracle
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="80" height="80"/>
+        <br>Unreal Engine
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
