@@ -37,6 +37,42 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
   </tr>
 </table>
 ---
+## 🖥️ Tech Stack
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.gif" width="60" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.gif" width="60" /><br>Java
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.gif" width="60" /><br>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Custom rotating NumPy GIF -->
+      <img src="https://raw.githubusercontent.com/naveen-ai/assets/main/numpy-rotate.gif" width="60" /><br>NumPy
+    </td>
+    <td align="center">
+      <!-- Rotating Anaconda -->
+      <img src="https://raw.githubusercontent.com/naveen-ai/assets/main/anaconda-rotate.gif" width="60" /><br>Anaconda
+    </td>
+    <td align="center">
+      <!-- Rotating Oracle -->
+      <img src="https://raw.githubusercontent.com/naveen-ai/assets/main/oracle-rotate.gif" width="60" /><br>Oracle
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Rotating Unreal -->
+      <img src="https://raw.githubusercontent.com/naveen-ai/assets/main/unreal-rotate.gif" width="60" /><br>Unreal Engine
+    </td>
+  </tr>
+</table>
+---
 ## 💻 Tech Stack  
 
 <p align="center">
