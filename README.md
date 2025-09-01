@@ -1,4 +1,11 @@
-#  Hi, I'm Naveen  
+# Hi, I'm Naveen  
+<a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
+  <img src="https://img.icons8.com/fluency/28/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/metrinaveen08" target="_blank">
+  <img src="https://img.icons8.com/fluency/28/000000/github.png" alt="GitHub"/>
+</a>
+---
 
 I’m studying **Computer Science Specializing in AIML** and exploring the intersections of **technology & problem solving**. Welcome to my GitHub!  
 
@@ -24,26 +31,6 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
     </td>
   </tr>
 </table>
-
----
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <br>
-  <b>Metri Naveen Kumar</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/metrinaveen08" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <br>
-  <b>@metrinaveen08</b>
-</p>
-
 ---
 ## 💻 Tech Stack  
 
