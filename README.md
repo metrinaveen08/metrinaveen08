@@ -4,10 +4,26 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
 
 ---
 
-## 📊 GitHub Stats
-[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=metrinaveen08&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metrinaveen08&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=metrinaveen08&theme=dark&hide_border=false)](https://git.io/streak-stats)
+## 📊 GitHub Stats  
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=metrinaveen08&show_icons=true&theme=dark" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metrinaveen08&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=metrinaveen08&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+    </td>
+  </tr>
+</table>
 
 ---
 
