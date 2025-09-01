@@ -1,3 +1,11 @@
+<!-- Background Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" alt="animated background" width="100%" />
+</p>
+
+
+---
+
 # 👋 Hi, I'm Naveen 
 <a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
   <img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/>
