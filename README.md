@@ -74,9 +74,4 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
 
 ---
 
-## ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=metrinaveen08&icon=1&color=0)](https://visitcount.itsvg.in)
