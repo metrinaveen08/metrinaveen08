@@ -35,7 +35,7 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
   </tr>
 </table>
 ---
-### What I Know 
+## What I Know 
 
 <p align="center">
   <table>
