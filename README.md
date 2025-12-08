@@ -1,6 +1,7 @@
 ---
 
-# 👋 Hi, I'm Naveen 
+# 👋Xenon Here
+#
 <a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
   <img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/>
 </a>
@@ -13,7 +14,7 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
 
 ---
 
-## 📊 GitHub Stats  
+## Stats  
 
 <table align="center">
   <tr>
@@ -34,7 +35,7 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
   </tr>
 </table>
 ---
-## 💻 Tech Stack  
+## What I Know 
 
 <p align="center">
   <table>
