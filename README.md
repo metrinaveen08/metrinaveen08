@@ -1,18 +1,23 @@
 ---
 
-# 👋Xenon Here
-#
+# Hello Xenon Here
+## I am Metri Naveen Kumar.Xenon Akro is my alias
+## Welcome to my GitHub page !  
 <a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
   <img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/metrinaveen08" target="_blank">
-  <img src="https://img.icons8.com/fluency/28/github.png" alt="GitHub"/>
+<a href="https://naveenmetri.xyz" target="_blank">
+  <img src="https://img.icons8.com/fluency/28/github.png" alt="Portfolio"/>
 </a>
+<p align="left">
+  <img src="https://i.gifer.com/76YS.gif" alt="animated banner" width="15%" />
+</p>
 
 
-I’m studying **Computer Science Specializing in AIML** and exploring the intersections of **technology & problem solving**. Welcome to my GitHub!  
+### I’m a ***PolyMath with an intreast in Computer Science and its domains***  
 
 ---
+
 
 ## Stats  
 
@@ -26,15 +31,10 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=metrinaveen08&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-    </td>
   </tr>
 </table>
 ---
+
 ## What I Know 
 
 <p align="center">
@@ -63,23 +63,13 @@ I’m studying **Computer Science Specializing in AIML** and exploring the inter
         <br>Anaconda
       </td>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="80" height="80"/>
-        <br>Oracle
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="80" height="80"/>
         <br>Unreal Engine
       </td>
     </tr>
   </table>
 </p>
-<p align="center">
-  <img src="https://i.gifer.com/76YS.gif" alt="animated banner" width="100%" />
-</p>
+
 
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=metrinaveen08&icon=1&color=0)](https://visitcount.itsvg.in)
