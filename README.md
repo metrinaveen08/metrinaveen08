@@ -1,7 +1,7 @@
 ---
 
 # Hello Xenon Here
-## I am Metri Naveen Kumar.Xenon Akro is my alias
+## I am Metri Naveen Kumar. Xenon Akro is my alias
 ## Welcome to my GitHub page !  
 <a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
   <img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/>
