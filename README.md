@@ -19,22 +19,6 @@
 ---
 
 
-## Stats  
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=metrinaveen08&show_icons=true&theme=dark" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metrinaveen08&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-  </tr>
-</table>
----
-
 ## What I Know 
 
 <p align="center">
