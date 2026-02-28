@@ -5,7 +5,7 @@
 <a href="https://naveenmetri.xyz" target="_blank">
   <img src="https://img.icons8.com/fluency/28/github.png" alt="Portfolio"/>
 </a>
-<a href="https://bloc.naveenmetri.xyz" target="_blank">
+<a href="https://blog.naveenmetri.xyz" target="_blank">
   <img src="" alt="XB" width="28" height="28"
  />
 </a>
