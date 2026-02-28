@@ -1,8 +1,4 @@
 ---
-
-# Hello Xenon Here
-## I am Metri Naveen Kumar. Xenon Akro is my alias
-## Welcome to my GitHub page !  
 <a href="https://linkedin.com/in/metri-naveen-kumar" target="_blank">
   <img src="https://img.icons8.com/fluency/28/linkedin.png" alt="LinkedIn"/>
 </a>
@@ -13,13 +9,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg/960px-Association_for_Computing_Machinery_%28ACM%29_logo.svg.png" alt="ACM" width="28" height="28"
  />
 </a>
-<p align="left">
-  <img src="https://i.gifer.com/76YS.gif" alt="animated banner" width="15%" />
-</p>
 
-
+# Hello Xenon Here
+## I am Metri Naveen Kumar. Xenon Akro is my alias
+### ***ACM MEMBER | IAENG MEMBER*** 
+## Welcome to my GitHub page !  
 ### I’m a ***PolyMath with an intreast in Computer Science and its domains***  
-### ***ACM MEMBER***  
+ 
 
 ---
 
