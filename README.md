@@ -5,8 +5,8 @@
 <a href="https://naveenmetri.xyz" target="_blank">
   <img src="https://img.icons8.com/fluency/28/github.png" alt="Portfolio"/>
 </a>
-<a href="https://blog.naveenmetri.xyz" target="_blank">
-  <img src="" alt="XB" width="28" height="28"
+<a href="https://naveenmetri.xyz" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/189886215?s=400&u=fa7f3aa0971579fc2fb5ab324d1fc67b05d41c4a&v=4" alt="XB" width="28" height="28"
  />
 </a>
 <a href="https://services.acm.org/public/vcard/vcard.cfm?handle=xenonaveen" target="_blank">
