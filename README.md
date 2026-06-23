@@ -15,7 +15,7 @@
 </a>
 
 # Hello Xenon Here
-# I have Moved from Github to Codeberg and most of my repositories will be migrated there
+
 ## I am Metri Naveen Kumar. Xenon Akro is my alias
 ### ***ACM MEMBER | IAENG MEMBER*** 
 ## Welcome to my GitHub page !  
