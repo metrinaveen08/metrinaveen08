@@ -19,7 +19,7 @@
 ## I am Metri Naveen Kumar. Xenon Akro is my alias
 ### ***ACM MEMBER | IAENG MEMBER*** 
 ## Welcome to my GitHub page !  
-### exploring Computer Science and its domains***  
+ ***exploring Computer Science and its domains***
  
 
 ---
